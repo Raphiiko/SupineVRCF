@@ -1,4 +1,4 @@
-# ごろ寝システム(EX) VRCFury Installation Prefab
+# ごろ寝システム(EX)/Gorone(EX) System VRCFury Installation Prefab
 
 日本語訳は、このドキュメントの下部にあります。
 
