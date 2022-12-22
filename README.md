@@ -30,11 +30,11 @@ For any issues, you can contact me on [Twitter at @Raphiiko](https://twitter.com
 
 5. You can now upload your avatar!
 
-### Related Links
+### Related Links & Credit
 
-- ごろ寝システム: https://minminmart.booth.pm/items/2886739
-- ごろ寝システムEX: https://minminmart.booth.pm/items/4233545
-- VRCFury: https://vrcfury.com
+- ごろ寝システム by [みんみんみーん/minminmiin](https://twitter.com/minminmeeean): https://minminmart.booth.pm/items/2886739
+- ごろ寝システムEX by [みんみんみーん/minminmiin](https://twitter.com/minminmeeean): https://minminmart.booth.pm/items/4233545
+- VRCFury by [Senky](https://twitter.com/SenkyDragon): https://vrcfury.com
 
 # ごろ寝システム(EX) VRCFury インストールプレファブ (DeepLによる日本語機械翻訳)
 
@@ -67,6 +67,6 @@ For any issues, you can contact me on [Twitter at @Raphiiko](https://twitter.com
 
 ### 関連リンク
 
-- ごろ寝システム: https://minminmart.booth.pm/items/2886739
-- ごろ寝システムEX: https://minminmart.booth.pm/items/4233545
-- VRCFury: https://vrcfury.com
+- ごろ寝システム by [みんみんみーん](https://twitter.com/minminmeeean): https://minminmart.booth.pm/items/2886739
+- ごろ寝システムEX by [みんみんみーん](https://twitter.com/minminmeeean): https://minminmart.booth.pm/items/4233545
+- VRCFury by [Senky](https://twitter.com/SenkyDragon): https://vrcfury.com
