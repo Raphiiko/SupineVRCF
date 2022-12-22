@@ -22,8 +22,8 @@ For any issues, you can contact me on [Twitter at @Raphiiko](https://twitter.com
 
 
 3. Download the matching installation prefab and import it into your project:
-   - [ごろ寝システム](https://github.com/Raphiiko/SupineVRCF/raw/main/SupineVRCF.unitypackage)
-   - [ごろ寝システムEX](https://github.com/Raphiiko/SupineVRCF/raw/main/SupineVRCF_EX.unitypackage)
+   - [ごろ寝システム Installation Prefab](https://github.com/Raphiiko/SupineVRCF/raw/main/SupineVRCF.unitypackage)
+   - [ごろ寝システムEX Installation Prefab](https://github.com/Raphiiko/SupineVRCF/raw/main/SupineVRCF_EX.unitypackage)
 
 4. Drag the matching installation prefab onto your avatar.<br>
    ![Unity_1I6kbf8ZeO](https://user-images.githubusercontent.com/111654848/209200899-b560ec42-e590-4e30-8103-518f15f5a6f4.gif)
@@ -57,8 +57,8 @@ For any issues, you can contact me on [Twitter at @Raphiiko](https://twitter.com
 2. [ごろ寝システム](https://minminmart.booth.pm/items/2886739)または[ごろ寝システムEX](https://minminmart.booth.pm/items/4233545)のいずれかのユニティパッケージをダウンロードして、プロジェクトにインポートする。<br>(ごろ寝システムEXには、さらに大人のポーズが含まれています。)
 
 3. 一致するインストール用プレハブをダウンロードし、プロジェクトにインポートします。
-   - ごろ寝システム](https://github.com/Raphiiko/SupineVRCF/raw/main/SupineVRCF.unitypackage)
-   - ごろ寝システムEX](https://github.com/Raphiiko/SupineVRCF/raw/main/SupineVRCF_EX.unitypackage)
+   - [ごろ寝システム インストールプレハブ](https://github.com/Raphiiko/SupineVRCF/raw/main/SupineVRCF.unitypackage)
+   - [ごろ寝システムEX インストールプレハブ](https://github.com/Raphiiko/SupineVRCF/raw/main/SupineVRCF_EX.unitypackage)
 
 4. 適合するインストール用プレハブをアバターにドラッグしてください。<br>
    ![Unity_1I6kbf8ZeO](https://user-images.githubusercontent.com/111654848/209200899-b560ec42-e590-4e30-8103-518f15f5a6f4.gif)
