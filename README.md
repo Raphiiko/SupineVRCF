@@ -8,9 +8,11 @@ This simplifies compatibility and the installation process by only needing you t
 
 ### Disclaimer
 
-This installation prefab is not affiliated with ごろ寝システム or VRCFury.
+This installation prefab nor Raphiiko are affiliated with ごろ寝システム or VRCFury.
 
 Please **do not** contact みんみんみーん or Senky about issues with this prefab.
+
+For any issues, you can contact me on [Twitter at @Raphiiko](https://twitter.com/Raphiiko) or on my [Discord](https://discord.gg/7MqdPJhYxC).
 
 ### Installation
 
@@ -34,8 +36,6 @@ Please **do not** contact みんみんみーん or Senky about issues with this 
 - ごろ寝システムEX: https://minminmart.booth.pm/items/4233545
 - VRCFury: https://vrcfury.com
 
-
-
 # ごろ寝システム(EX) VRCFury インストールプレファブ (DeepLによる日本語機械翻訳)
 
 [VRCFury](https://vrcfury.com)を使って[みんみんみーん](https://twitter.com/minminmeeean)の[ごろ寝システム](https://minminmart.booth.pm/items/2886739)や[ごろ寝システムEX](https://minminmart.booth.pm/items/4233545)を簡単にインストールするための統一プレハブです。
@@ -44,9 +44,11 @@ Please **do not** contact みんみんみーん or Senky about issues with this 
 
 ### 免責事項
 
-このインストール用プレハブは、ごろ寝システムおよびVRCFuryとは関係ありません。
+本インストールプレハブおよびRaphiikoは、ごろ寝システムおよびVRCFuryの関連会社ではありません。
 
 このプレハブに関する問題をみんみんみーんやSenkyに問い合わせることは **しないでください**。
+
+何か問題があれば、[Twitterの@Raphiiko](https://twitter.com/Raphiiko)か私の[Discord](https://discord.gg/7MqdPJhYxC)に連絡してください。
 
 ### インストール
 
