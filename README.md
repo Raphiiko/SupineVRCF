@@ -8,7 +8,7 @@ This simplifies compatibility and the installation process by only needing you t
 
 ### Disclaimer
 
-This installation prefab nor Raphiiko are affiliated with ごろ寝システム or VRCFury.
+This installation prefab nor Raphiiko are affiliated with "ごろ寝システム/Gorone System" or VRCFury.
 
 Please **do not** contact みんみんみーん or Senky about issues with this prefab.
 
@@ -18,8 +18,7 @@ For any issues, you can contact me on [Twitter at @Raphiiko](https://twitter.com
 
 1. Download [the latest VRCFury unitypackage](https://gitlab.com/VRCFury/VRCFury/-/releases) and import it into your project.
 
-2. Download either the unitypackage for [ごろ寝システム](https://minminmart.booth.pm/items/2886739) or for [ごろ寝システムEX](https://minminmart.booth.pm/items/4233545) and import it into your project.<br>(ごろ寝システムEX contains additional adult poses)
-
+2. Download either the unitypackage for [ごろ寝システム/Gorone System](https://minminmart.booth.pm/items/2886739) or for [ごろ寝システムEX/Gorone System EX](https://minminmart.booth.pm/items/4233545) and import it into your project.<br>("ごろ寝システムEX/Gorone System EX" contains additional adult poses)
 
 3. Download the matching installation prefab and import it into your project:
    - [ごろ寝システム/Gorone System Installation Prefab](https://github.com/Raphiiko/SupineVRCF/raw/main/SupineVRCF.unitypackage)
