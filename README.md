@@ -1,8 +1,8 @@
-# ごろ寝システム(EX)/Gorone(EX) System VRCFury Installation Prefab
+# ごろ寝システム(EX) VRCFury Installation Prefab
 
 日本語訳は、このドキュメントの下部にあります。
 
-This is a unity prefab to easily install [みんみんみーん](https://twitter.com/minminmeeean)'s (minminmiin's) [ごろ寝システム](https://minminmart.booth.pm/items/2886739) or [ごろ寝システムEX](https://minminmart.booth.pm/items/4233545) sleep systems using [VRCFury](https://vrcfury.com).
+This is a unity prefab to easily install [みんみんみーん](https://twitter.com/minminmeeean)'s (minminmiin's) [ごろ寝システム/Gorone System](https://minminmart.booth.pm/items/2886739) or [ごろ寝システムEX/Gorone System EX](https://minminmart.booth.pm/items/4233545) sleep systems using [VRCFury](https://vrcfury.com).
 
 This simplifies compatibility and the installation process by only needing you to drag the prefab on your avatar.
 
