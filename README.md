@@ -1,3 +1,8 @@
+# DEPRECATED: Starting with ごろ寝システム v4.0, the prefab installs using Modular Avatar. 
+## You should probably use that instead. This prefab only supports versions up to, but not including, v4.0. 
+
+If you really still want to use this with an older version of the prefab:
+
 # ごろ寝システム(EX) VRCFury Installation Prefab
 
 日本語訳は、このドキュメントの下部にあります。
